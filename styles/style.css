@@ -27,6 +27,7 @@
         margin-right: auto;
         background-color:#0D1321;
         padding: 21px 24px;
+        border-radius: 8px;
         color:#FFFFFF;
       } 
   .header-bg-pic{
@@ -40,11 +41,9 @@
     font-weight: 800;
     font-size: 32px;
   }
-div{
-    margin-top: 80px; 
-}
+
   .main-bg-color{
-    background-color: #ADC8F7;width: 1140px;height: 1393px;
+    background-color: #ADC8F7;width: 1140px;height: 1150px;
     margin-top: 70px;
     margin-left: 148px;
     margin-right: 152px;
@@ -53,9 +52,29 @@ div{
     text-align: center;
   }
   .button-2{
-     
+    font-family: "Azeret Mono";
+    font-weight: 600;
+    font-size: 20px;
+    margin:"0px 172px 171px 47px";
+    color: #0D1321;
+    padding:12px 20px;
+
   }
   .middle-body{
 display: flex;
 justify-content: space-between;
+margin:48px 48px 48px 48px;
+
+  }
+  .all-main-body{
+    margin: 80px 97px;
+  }
+  all-main-body-2{
+   margin: 48px;
+  }
+  .all{
+    margin: 48px 48px 48px 48px;
+  }
+  .div-2{
+    margin-left: 40px;
   }
