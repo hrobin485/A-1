@@ -78,3 +78,31 @@ margin:48px 48px 48px 48px;
   .div-2{
     margin-left: 40px;
   }
+  .miidle-p{
+    margin-top: 84px;
+    margin-left:186px ;
+    margin-right:402px ;
+  }
+  iframe{
+    margin-top: 48px;
+    margin-left: 218px;
+    margin-right: 434px;
+  }
+  .main-heading-2{
+    margin-top: 80px;
+  text-align: center;
+    font-weight: 800;
+    font-size: 32px;
+  }
+  .skill-description{
+    text-align: left;
+  }
+  .skill{
+    padding: 40px;
+    box-shadow: 0px 6px 30px 0px rgba(0,0,0,0.06);
+  }
+  .skills-container{
+    margin-top: 60px;
+    display: flex;
+    gap: 24px;
+  }
